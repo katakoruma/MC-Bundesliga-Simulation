@@ -1,6 +1,6 @@
 # Bundesliga-simulation
 
-Warning: I know, the code is quite messy.
+__Warning:__ I know, the code is quite messy.
 It works but is uncommented and needs to be reworked. At first it was just for me and not meant to be published.  
 
 An early Matlab Code to simulate results of a German Bundesliga season (or any other sports championship in which points are earned). 
